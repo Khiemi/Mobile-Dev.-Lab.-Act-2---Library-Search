@@ -1,0 +1,136 @@
+==========================
+	Welcome To Library	
+==========================
+=============================
+
+[1]. Borrow/Issue Books
+
+[2]. Display Books
+
+[3]. Exit
+
+============================
+
+Please Choose a Number You Want:1
+==============================
+
+
+	 Available Books are:	
+
+==============================
+
+ Book ID	 Book Title
+    1		 Mobile Development
+    2		 Python Programming2
+    3		 Computer Networking2
+    4		 Data Mining
+
+Enter the book ID to issue: 1
+Enter the name of the person issuing the book: khiemi
+
+Success: "Mobile Development" is issued successfully to khiemi.
+
+=============================
+
+[1]. Borrow/Issue Books
+
+[2]. Display Books
+
+[3]. Exit
+
+============================
+
+Please Choose a Number You Want:2
+=======================================================
+
+
+	 The list of books are: 	
+
+========================================================
+
+ Book ID	 Book Title			 Author			 Status		 Issued By
+ 1		 Mobile Development		Warren	         Issued		 khiemi
+ 2		 Python Programming2	Paulo	       Available		 N/A
+ 3		 Computer Networking2	Joshua	       Available		 N/A
+ 4		 Data Mining			Emelbe	       Available		 N/A
+=============================
+
+[1]. Borrow/Issue Books
+
+[2]. Display Books
+
+[3]. Exit
+
+============================
+
+Please Choose a Number You Want:45
+
+ Please choose a correct choice!
+
+=============================
+
+[1]. Borrow/Issue Books
+
+[2]. Display Books
+
+[3]. Exit
+
+============================
+
+Please Choose a Number You Want:asd
+
+[Error]: Invalid input format. Please enter a valid number.
+=============================
+
+[1]. Borrow/Issue Books
+
+[2]. Display Books
+
+[3]. Exit
+
+============================
+
+Please Choose a Number You Want:1
+==============================
+
+
+	 Available Books are:	
+
+==============================
+
+ Book ID	 Book Title
+    2		 Python Programming2
+    3		 Computer Networking2
+    4		 Data Mining
+
+Enter the book ID to issue: 45
+Invalid book ID or the book is already issued.
+
+=============================
+
+[1]. Borrow/Issue Books
+
+[2]. Display Books
+
+[3]. Exit
+
+============================
+
+Please Choose a Number You Want:asd
+
+[Error]: Invalid input format. Please enter a valid number.
+=============================
+
+[1]. Borrow/Issue Books
+
+[2]. Display Books
+
+[3]. Exit
+
+==========================
+
+Please Choose a Number You Want:3
+
+Exiting the program. Goodbye!
+
+
